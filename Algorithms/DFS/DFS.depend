@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524246963 source:c:\users\elmay\desktop\dfs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524480333 
+
+1524480333 source:c:\users\elmay\desktop\dfs in c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524480627 source:/run/media/eskanders./8GB/DFS in C/main.c
+	<stdio.h>
+	<stdlib.h>
+
